@@ -1,5 +1,32 @@
 # Arweave Checker
 
+This is an Observable Framework repo structure with some data gathering scripts for the Arweave checker PoC. The checker scripts are in the /src/scripts folder.
+
+Run
+
+```
+npm install
+```
+
+Then you can run 
+
+```
+node ./src/scripts/ping.js
+``` 
+to run a ping test on the arweave nodes in /src/data/arweave-nodes.json
+
+And you can run
+
+```
+node ./src/scripts/retrieve.js
+```
+to retrieve the sample transactions in /src/data/random-transactions.json from the nodes in /src/data/arweave-nodes.json
+
+Then follow the below steps to see the data visualised in the Observable dashboard
+
+
+## Observable structure
+
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
 
 ```
