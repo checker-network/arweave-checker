@@ -8,11 +8,11 @@ Run
 npm install
 ```
 
-Then you can run 
+Then you can run
 
 ```
 node ./src/scripts/ping.js
-``` 
+```
 to run a ping test on the arweave nodes in /src/data/arweave-nodes.json
 
 And you can run
