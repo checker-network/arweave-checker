@@ -1,0 +1,466 @@
+[
+  {
+    "host": "arweave.net",
+    "protocol": "https"
+  },
+  {
+    "host": "112.120.10.102",
+    "port": "1989",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.30",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.51",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.18",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "199.38.81.15",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "78.29.33.13",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.33",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "95.217.183.95",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.47",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "112.120.10.102",
+    "port": "1986",
+    "protocol": "http"
+  },
+  {
+    "host": "174.112.132.234",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.53",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "24.59.240.76",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "72.255.241.138",
+    "port": "1992",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.29",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "157.90.15.247",
+    "port": "1985",
+    "protocol": "http"
+  },
+  {
+    "host": "176.9.24.56",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.36",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "216.66.68.20",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "72.255.241.138",
+    "port": "1993",
+    "protocol": "http"
+  },
+  {
+    "host": "206.83.144.16",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.19",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "88.99.218.32",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.48",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.23",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "94.130.139.215",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.49",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "13.215.88.109",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.5",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "146.66.200.121",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.54",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "10005",
+    "protocol": "http"
+  },
+  {
+    "host": "148.251.135.52",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "198.206.133.128",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "47.91.30.105",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "46.122.13.182",
+    "port": "10002",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.28",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "109.120.235.125",
+    "port": "11110",
+    "protocol": "http"
+  },
+  {
+    "host": "108.238.244.144",
+    "port": "2024",
+    "protocol": "http"
+  },
+  {
+    "host": "46.122.13.182",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "112.120.10.102",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "185.218.6.183",
+    "port": "2015",
+    "protocol": "http"
+  },
+  {
+    "host": "95.216.19.227",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "94.19.6.232",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "162.255.21.44",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.21",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.20",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "206.83.144.15",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.22",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "94.130.138.216",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.45",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.24",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "94.130.138.211",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.46",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "78.88.109.25",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.52",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "65.21.73.167",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.50",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "136.243.93.116",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.9",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "5.9.18.85",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "47.90.203.43",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.56",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.55",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "11005",
+    "protocol": "http"
+  },
+  {
+    "host": "108.238.244.144",
+    "port": "2001",
+    "protocol": "http"
+  },
+  {
+    "host": "174.112.132.234",
+    "port": "1985",
+    "protocol": "http"
+  },
+  {
+    "host": "72.255.241.138",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "18.143.34.211",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "173.48.197.246",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "72.255.241.138",
+    "port": "1991",
+    "protocol": "http"
+  },
+  {
+    "host": "108.238.244.144",
+    "port": "2012",
+    "protocol": "http"
+  },
+  {
+    "host": "35.175.1.113",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.23.46.70",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.31",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.23.32.52",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.70.220.163",
+    "port": "198",
+    "protocol": "http"
+  },
+  {
+    "host": "78.29.33.13",
+    "port": "1986",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.27",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "185.218.6.183",
+    "port": "1985",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "11002",
+    "protocol": "http"
+  },
+  {
+    "host": "174.112.132.234",
+    "port": "4001",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.32",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "69.4.232.1",
+    "port": "2984",
+    "protocol": "http"
+  },
+  {
+    "host": "168.119.214.183",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "1990",
+    "protocol": "http"
+  },
+  {
+    "host": "93.103.19.209",
+    "port": "1987",
+    "protocol": "http"
+  },
+  {
+    "host": "3.34.96.164",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "162.55.176.19",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "94.130.139.218",
+    "port": "1984",
+    "protocol": "http"
+  },
+  {
+    "host": "38.29.227.25",
+    "port": "198",
+    "protocol": "http"
+  }
+]
