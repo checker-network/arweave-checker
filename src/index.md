@@ -1,10 +1,16 @@
 ---
 toc: false
 ---
+
 ```js
-const arweavePingResults = FileAttachment("./data/arweave-ping-output.json").json();
-const arweaveTxRetrieveResults = FileAttachment("./data/arweave-retrieve-transactions-output.json").json();
+const arweavePingResults = FileAttachment(
+  './data/arweave-ping-output.json',
+).json()
+const arweaveTxRetrieveResults = FileAttachment(
+  './data/arweave-retrieve-transactions-output.json',
+).json()
 ```
+
 ```js
 const simpleArweavePingResults = arweavePingResults.map((item) => ({
   host: item.host,
@@ -15,37 +21,64 @@ const simpleArweaveTxRetrieveResults = arweaveTxRetrieveResults.map((item) => ({
   host: item.node.host,
   retrievalStatus: item.result.status,
 }))
-console.log("simpleArweaveTxRetrieveResults", simpleArweaveTxRetrieveResults)
+console.log('simpleArweaveTxRetrieveResults', simpleArweaveTxRetrieveResults)
 ```
 
 <div class="hero">
+  <div><a href="https://checker.network" ><img src="media/checker-with-bbox.png" alt="Checker Logo" width="100" /></a></div>
   <h1>Arweave Checker</h1>
 </div>
 
-<h4>Arweave Node Status</h4>
+<div class="grid grid-cols-2">
+</div>
 
-```js
-const search = view(Inputs.search(simpleArweavePingResults, {placeholder: "Search Arweave Nodes…"}));
-```
-<div class="card" style="padding: 0;">
-  ${Inputs.table(search, {rows: 16, format: {miner_id: id => htl.html`<a href=./provider/${id} target=_blank>${id}</a>`}})}
+<div class="grid grid-cols-2">
+  <div>
+    <h4>Arweave Retrievability Success Rate</h4>
+  <div class="card" style="padding: 0;">
+    ${Plot.plot({
+    marginBottom: 100,
+    x: {label: null, tickRotate: 90},
+    y: {grid: true},
+    color: {scheme: "accent", legend: "swatches", label: "Success", width: 2000},
+    marks: [
+      Plot.barY(simpleArweaveTxRetrieveResults, Plot.groupX({y: "count"}, {x: "retrievalStatus", fill: "retrievalStatus"})),
+      Plot.ruleY([0])
+    ]
+  })}
+  </div>
+  </div>
+  <div>
+  <h4>Arweave Node Availability</h4>
+  <div class="card" style="padding: 0;">
+    ${Plot.plot({
+      marginBottom: 100,
+      x: {label: null, tickRotate: 90},
+      y: {grid: true},
+      color: {scheme: "accent", legend: "swatches", label: "Alive", width: 2000},
+      marks: [
+        Plot.barY(simpleArweavePingResults, Plot.groupX({y: "count"}, {x: "alive", fill: "alive"})),
+        Plot.ruleY([0])
+      ]
+  })}
+  </div>
+  </div>
 </div>
 
 ---
 
-<h4>Arweave Retrievability Success Rate</h4>
+<h4>Arweave Node Status</h4>
 
+```js
+const search = view(
+  Inputs.search(simpleArweavePingResults, {
+    placeholder: 'Search Arweave Nodes…',
+  }),
+)
+```
 
 <div class="card" style="padding: 0;">
-  ${Plot.plot({
-  marginBottom: 100,
-  x: {label: null, tickRotate: 90},
-  y: {grid: true},
-  marks: [
-    Plot.barY(simpleArweaveTxRetrieveResults, Plot.groupX({y: "count"}, {x: "retrievalStatus"})),
-    Plot.ruleY([0])
-  ]
-})}
+  ${Inputs.table(search, {rows: 16, format: {miner_id: id => htl.html`<a href=./provider/${id} target=_blank>${id}</a>`}})}
 </div>
 
 <style>
