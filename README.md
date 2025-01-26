@@ -13,6 +13,7 @@ Then you can run
 ```
 node ./src/scripts/ping.js
 ```
+
 to run a ping test on the arweave nodes in /src/data/arweave-nodes.json
 
 And you can run
@@ -20,10 +21,10 @@ And you can run
 ```
 node ./src/scripts/retrieve.js
 ```
+
 to retrieve the sample transactions in /src/data/random-transactions.json from the nodes in /src/data/arweave-nodes.json
 
 Then follow the below steps to see the data visualised in the Observable dashboard
-
 
 ## Observable structure
 
@@ -76,11 +77,11 @@ A typical Framework project looks like this:
 
 ## Command reference
 
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your app to Observable                            |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
+| Command              | Description                                 |
+| -------------------- | ------------------------------------------- |
+| `npm install`        | Install or reinstall dependencies           |
+| `npm run dev`        | Start local preview server                  |
+| `npm run build`      | Build your static site, generating `./dist` |
+| `npm run deploy`     | Deploy your app to Observable               |
+| `npm run clean`      | Clear the local data loader cache           |
+| `npm run observable` | Run commands like `observable help`         |

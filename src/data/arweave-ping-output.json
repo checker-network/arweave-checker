@@ -5,9 +5,7 @@
     "alive": true,
     "output": "PING 38.29.227.25 (38.29.227.25): 56 data bytes\n64 bytes from 38.29.227.25: icmp_seq=0 ttl=48 time=24.066 ms\n\n--- 38.29.227.25 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.066/24.066/24.066/nan ms\n",
     "time": 24.066,
-    "times": [
-      24.066
-    ],
+    "times": [24.066],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -21,9 +19,7 @@
     "alive": true,
     "output": "PING 94.130.139.218 (94.130.139.218): 56 data bytes\n64 bytes from 94.130.139.218: icmp_seq=0 ttl=45 time=166.746 ms\n\n--- 94.130.139.218 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 166.746/166.746/166.746/nan ms\n",
     "time": 166.746,
-    "times": [
-      166.746
-    ],
+    "times": [166.746],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -37,9 +33,7 @@
     "alive": true,
     "output": "PING 162.55.176.19 (162.55.176.19): 56 data bytes\n64 bytes from 162.55.176.19: icmp_seq=0 ttl=41 time=121.532 ms\n\n--- 162.55.176.19 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 121.532/121.532/121.532/nan ms\n",
     "time": 121.532,
-    "times": [
-      121.532
-    ],
+    "times": [121.532],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -95,9 +89,7 @@
     "alive": true,
     "output": "PING 168.119.214.183 (168.119.214.183): 56 data bytes\n64 bytes from 168.119.214.183: icmp_seq=0 ttl=45 time=125.126 ms\n\n--- 168.119.214.183 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 125.126/125.126/125.126/0.000 ms\n",
     "time": 125.126,
-    "times": [
-      125.126
-    ],
+    "times": [125.126],
     "min": "125.126",
     "max": "125.126",
     "avg": "125.126",
@@ -111,9 +103,7 @@
     "alive": true,
     "output": "PING 69.4.232.1 (69.4.232.1): 56 data bytes\n64 bytes from 69.4.232.1: icmp_seq=0 ttl=48 time=16.482 ms\n\n--- 69.4.232.1 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 16.482/16.482/16.482/0.000 ms\n",
     "time": 16.482,
-    "times": [
-      16.482
-    ],
+    "times": [16.482],
     "min": "16.482",
     "max": "16.482",
     "avg": "16.482",
@@ -127,9 +117,7 @@
     "alive": true,
     "output": "PING 38.29.227.32 (38.29.227.32): 56 data bytes\n64 bytes from 38.29.227.32: icmp_seq=0 ttl=48 time=22.127 ms\n\n--- 38.29.227.32 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 22.127/22.127/22.127/nan ms\n",
     "time": 22.127,
-    "times": [
-      22.127
-    ],
+    "times": [22.127],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -143,9 +131,7 @@
     "alive": true,
     "output": "PING 174.112.132.234 (174.112.132.234): 56 data bytes\n64 bytes from 174.112.132.234: icmp_seq=0 ttl=46 time=119.039 ms\n\n--- 174.112.132.234 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 119.039/119.039/119.039/0.000 ms\n",
     "time": 119.039,
-    "times": [
-      119.039
-    ],
+    "times": [119.039],
     "min": "119.039",
     "max": "119.039",
     "avg": "119.039",
@@ -173,9 +159,7 @@
     "alive": true,
     "output": "PING 185.218.6.183 (185.218.6.183): 56 data bytes\n64 bytes from 185.218.6.183: icmp_seq=0 ttl=46 time=174.424 ms\n\n--- 185.218.6.183 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 174.424/174.424/174.424/nan ms\n",
     "time": 174.424,
-    "times": [
-      174.424
-    ],
+    "times": [174.424],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -189,9 +173,7 @@
     "alive": true,
     "output": "PING 38.29.227.27 (38.29.227.27): 56 data bytes\n64 bytes from 38.29.227.27: icmp_seq=0 ttl=49 time=32.920 ms\n\n--- 38.29.227.27 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 32.920/32.920/32.920/nan ms\n",
     "time": 32.92,
-    "times": [
-      32.92
-    ],
+    "times": [32.92],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -219,9 +201,7 @@
     "alive": true,
     "output": "PING 38.70.220.163 (38.70.220.163): 56 data bytes\n64 bytes from 38.70.220.163: icmp_seq=0 ttl=47 time=89.684 ms\n\n--- 38.70.220.163 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 89.684/89.684/89.684/0.000 ms\n",
     "time": 89.684,
-    "times": [
-      89.684
-    ],
+    "times": [89.684],
     "min": "89.684",
     "max": "89.684",
     "avg": "89.684",
@@ -235,9 +215,7 @@
     "alive": true,
     "output": "PING 38.23.32.52 (38.23.32.52): 56 data bytes\n64 bytes from 38.23.32.52: icmp_seq=0 ttl=47 time=35.803 ms\n\n--- 38.23.32.52 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 35.803/35.803/35.803/nan ms\n",
     "time": 35.803,
-    "times": [
-      35.803
-    ],
+    "times": [35.803],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -251,9 +229,7 @@
     "alive": true,
     "output": "PING 38.29.227.31 (38.29.227.31): 56 data bytes\n64 bytes from 38.29.227.31: icmp_seq=0 ttl=49 time=28.404 ms\n\n--- 38.29.227.31 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 28.404/28.404/28.404/nan ms\n",
     "time": 28.404,
-    "times": [
-      28.404
-    ],
+    "times": [28.404],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -267,9 +243,7 @@
     "alive": true,
     "output": "PING 38.23.46.70 (38.23.46.70): 56 data bytes\n64 bytes from 38.23.46.70: icmp_seq=0 ttl=47 time=44.957 ms\n\n--- 38.23.46.70 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 44.957/44.957/44.957/0.000 ms\n",
     "time": 44.957,
-    "times": [
-      44.957
-    ],
+    "times": [44.957],
     "min": "44.957",
     "max": "44.957",
     "avg": "44.957",
@@ -297,9 +271,7 @@
     "alive": true,
     "output": "PING 108.238.244.144 (108.238.244.144): 56 data bytes\n64 bytes from 108.238.244.144: icmp_seq=0 ttl=46 time=63.548 ms\n\n--- 108.238.244.144 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 63.548/63.548/63.548/nan ms\n",
     "time": 63.548,
-    "times": [
-      63.548
-    ],
+    "times": [63.548],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -369,9 +341,7 @@
     "alive": true,
     "output": "PING 174.112.132.234 (174.112.132.234): 56 data bytes\n64 bytes from 174.112.132.234: icmp_seq=0 ttl=46 time=92.371 ms\n\n--- 174.112.132.234 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 92.371/92.371/92.371/nan ms\n",
     "time": 92.371,
-    "times": [
-      92.371
-    ],
+    "times": [92.371],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -385,9 +355,7 @@
     "alive": true,
     "output": "PING 108.238.244.144 (108.238.244.144): 56 data bytes\n64 bytes from 108.238.244.144: icmp_seq=0 ttl=46 time=62.525 ms\n\n--- 108.238.244.144 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 62.525/62.525/62.525/nan ms\n",
     "time": 62.525,
-    "times": [
-      62.525
-    ],
+    "times": [62.525],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -415,9 +383,7 @@
     "alive": true,
     "output": "PING 38.29.227.55 (38.29.227.55): 56 data bytes\n64 bytes from 38.29.227.55: icmp_seq=0 ttl=48 time=28.064 ms\n\n--- 38.29.227.55 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 28.064/28.064/28.064/nan ms\n",
     "time": 28.064,
-    "times": [
-      28.064
-    ],
+    "times": [28.064],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -431,9 +397,7 @@
     "alive": true,
     "output": "PING 38.29.227.56 (38.29.227.56): 56 data bytes\n64 bytes from 38.29.227.56: icmp_seq=0 ttl=49 time=160.557 ms\n\n--- 38.29.227.56 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 160.557/160.557/160.557/0.000 ms\n",
     "time": 160.557,
-    "times": [
-      160.557
-    ],
+    "times": [160.557],
     "min": "160.557",
     "max": "160.557",
     "avg": "160.557",
@@ -447,9 +411,7 @@
     "alive": true,
     "output": "PING 47.90.203.43 (47.90.203.43): 56 data bytes\n64 bytes from 47.90.203.43: icmp_seq=0 ttl=47 time=20.908 ms\n\n--- 47.90.203.43 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.908/20.908/20.908/nan ms\n",
     "time": 20.908,
-    "times": [
-      20.908
-    ],
+    "times": [20.908],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -463,9 +425,7 @@
     "alive": true,
     "output": "PING 5.9.18.85 (5.9.18.85): 56 data bytes\n64 bytes from 5.9.18.85: icmp_seq=0 ttl=45 time=113.374 ms\n\n--- 5.9.18.85 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 113.374/113.374/113.374/nan ms\n",
     "time": 113.374,
-    "times": [
-      113.374
-    ],
+    "times": [113.374],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -479,9 +439,7 @@
     "alive": true,
     "output": "PING 38.29.227.9 (38.29.227.9): 56 data bytes\n64 bytes from 38.29.227.9: icmp_seq=0 ttl=49 time=20.998 ms\n\n--- 38.29.227.9 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.998/20.998/20.998/nan ms\n",
     "time": 20.998,
-    "times": [
-      20.998
-    ],
+    "times": [20.998],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -495,9 +453,7 @@
     "alive": true,
     "output": "PING 136.243.93.116 (136.243.93.116): 56 data bytes\n64 bytes from 136.243.93.116: icmp_seq=0 ttl=45 time=121.467 ms\n\n--- 136.243.93.116 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 121.467/121.467/121.467/nan ms\n",
     "time": 121.467,
-    "times": [
-      121.467
-    ],
+    "times": [121.467],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -511,9 +467,7 @@
     "alive": true,
     "output": "PING 38.29.227.50 (38.29.227.50): 56 data bytes\n64 bytes from 38.29.227.50: icmp_seq=0 ttl=49 time=20.020 ms\n\n--- 38.29.227.50 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.020/20.020/20.020/nan ms\n",
     "time": 20.02,
-    "times": [
-      20.02
-    ],
+    "times": [20.02],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -527,9 +481,7 @@
     "alive": true,
     "output": "PING 65.21.73.167 (65.21.73.167): 56 data bytes\n64 bytes from 65.21.73.167: icmp_seq=0 ttl=44 time=126.984 ms\n\n--- 65.21.73.167 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 126.984/126.984/126.984/0.000 ms\n",
     "time": 126.984,
-    "times": [
-      126.984
-    ],
+    "times": [126.984],
     "min": "126.984",
     "max": "126.984",
     "avg": "126.984",
@@ -543,9 +495,7 @@
     "alive": true,
     "output": "PING 38.29.227.52 (38.29.227.52): 56 data bytes\n64 bytes from 38.29.227.52: icmp_seq=0 ttl=49 time=22.686 ms\n\n--- 38.29.227.52 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 22.686/22.686/22.686/nan ms\n",
     "time": 22.686,
-    "times": [
-      22.686
-    ],
+    "times": [22.686],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -559,9 +509,7 @@
     "alive": true,
     "output": "PING 78.88.109.25 (78.88.109.25): 56 data bytes\n64 bytes from 78.88.109.25: icmp_seq=0 ttl=44 time=134.701 ms\n\n--- 78.88.109.25 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 134.701/134.701/134.701/nan ms\n",
     "time": 134.701,
-    "times": [
-      134.701
-    ],
+    "times": [134.701],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -575,9 +523,7 @@
     "alive": true,
     "output": "PING 38.29.227.46 (38.29.227.46): 56 data bytes\n64 bytes from 38.29.227.46: icmp_seq=0 ttl=48 time=26.660 ms\n\n--- 38.29.227.46 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 26.660/26.660/26.660/nan ms\n",
     "time": 26.66,
-    "times": [
-      26.66
-    ],
+    "times": [26.66],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -591,9 +537,7 @@
     "alive": true,
     "output": "PING 94.130.138.211 (94.130.138.211): 56 data bytes\n64 bytes from 94.130.138.211: icmp_seq=0 ttl=45 time=113.042 ms\n\n--- 94.130.138.211 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 113.042/113.042/113.042/0.000 ms\n",
     "time": 113.042,
-    "times": [
-      113.042
-    ],
+    "times": [113.042],
     "min": "113.042",
     "max": "113.042",
     "avg": "113.042",
@@ -607,9 +551,7 @@
     "alive": true,
     "output": "PING 38.29.227.24 (38.29.227.24): 56 data bytes\n64 bytes from 38.29.227.24: icmp_seq=0 ttl=48 time=21.124 ms\n\n--- 38.29.227.24 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 21.124/21.124/21.124/0.000 ms\n",
     "time": 21.124,
-    "times": [
-      21.124
-    ],
+    "times": [21.124],
     "min": "21.124",
     "max": "21.124",
     "avg": "21.124",
@@ -623,9 +565,7 @@
     "alive": true,
     "output": "PING 38.29.227.45 (38.29.227.45): 56 data bytes\n64 bytes from 38.29.227.45: icmp_seq=0 ttl=48 time=21.068 ms\n\n--- 38.29.227.45 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 21.068/21.068/21.068/0.000 ms\n",
     "time": 21.068,
-    "times": [
-      21.068
-    ],
+    "times": [21.068],
     "min": "21.068",
     "max": "21.068",
     "avg": "21.068",
@@ -639,9 +579,7 @@
     "alive": true,
     "output": "PING 94.130.138.216 (94.130.138.216): 56 data bytes\n64 bytes from 94.130.138.216: icmp_seq=0 ttl=45 time=114.578 ms\n\n--- 94.130.138.216 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 114.578/114.578/114.578/0.000 ms\n",
     "time": 114.578,
-    "times": [
-      114.578
-    ],
+    "times": [114.578],
     "min": "114.578",
     "max": "114.578",
     "avg": "114.578",
@@ -655,9 +593,7 @@
     "alive": true,
     "output": "PING 38.29.227.22 (38.29.227.22): 56 data bytes\n64 bytes from 38.29.227.22: icmp_seq=0 ttl=48 time=29.384 ms\n\n--- 38.29.227.22 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 29.384/29.384/29.384/nan ms\n",
     "time": 29.384,
-    "times": [
-      29.384
-    ],
+    "times": [29.384],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -671,9 +607,7 @@
     "alive": true,
     "output": "PING 206.83.144.15 (206.83.144.15): 56 data bytes\n64 bytes from 206.83.144.15: icmp_seq=0 ttl=49 time=20.478 ms\n\n--- 206.83.144.15 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 20.478/20.478/20.478/nan ms\n",
     "time": 20.478,
-    "times": [
-      20.478
-    ],
+    "times": [20.478],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -687,9 +621,7 @@
     "alive": true,
     "output": "PING 38.29.227.20 (38.29.227.20): 56 data bytes\n64 bytes from 38.29.227.20: icmp_seq=0 ttl=49 time=25.452 ms\n\n--- 38.29.227.20 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 25.452/25.452/25.452/0.000 ms\n",
     "time": 25.452,
-    "times": [
-      25.452
-    ],
+    "times": [25.452],
     "min": "25.452",
     "max": "25.452",
     "avg": "25.452",
@@ -717,9 +649,7 @@
     "alive": true,
     "output": "PING 38.29.227.21 (38.29.227.21): 56 data bytes\n64 bytes from 38.29.227.21: icmp_seq=0 ttl=48 time=24.663 ms\n\n--- 38.29.227.21 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.663/24.663/24.663/nan ms\n",
     "time": 24.663,
-    "times": [
-      24.663
-    ],
+    "times": [24.663],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -733,9 +663,7 @@
     "alive": true,
     "output": "PING 162.255.21.44 (162.255.21.44): 56 data bytes\n64 bytes from 162.255.21.44: icmp_seq=0 ttl=45 time=85.980 ms\n\n--- 162.255.21.44 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 85.980/85.980/85.980/nan ms\n",
     "time": 85.98,
-    "times": [
-      85.98
-    ],
+    "times": [85.98],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -749,9 +677,7 @@
     "alive": true,
     "output": "PING 94.19.6.232 (94.19.6.232): 56 data bytes\n64 bytes from 94.19.6.232: icmp_seq=0 ttl=45 time=128.826 ms\n\n--- 94.19.6.232 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 128.826/128.826/128.826/nan ms\n",
     "time": 128.826,
-    "times": [
-      128.826
-    ],
+    "times": [128.826],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -765,9 +691,7 @@
     "alive": true,
     "output": "PING 95.216.19.227 (95.216.19.227): 56 data bytes\n64 bytes from 95.216.19.227: icmp_seq=0 ttl=44 time=125.349 ms\n\n--- 95.216.19.227 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 125.349/125.349/125.349/0.000 ms\n",
     "time": 125.349,
-    "times": [
-      125.349
-    ],
+    "times": [125.349],
     "min": "125.349",
     "max": "125.349",
     "avg": "125.349",
@@ -781,9 +705,7 @@
     "alive": true,
     "output": "PING 185.218.6.183 (185.218.6.183): 56 data bytes\n64 bytes from 185.218.6.183: icmp_seq=0 ttl=46 time=176.232 ms\n\n--- 185.218.6.183 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 176.232/176.232/176.232/nan ms\n",
     "time": 176.232,
-    "times": [
-      176.232
-    ],
+    "times": [176.232],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -797,9 +719,7 @@
     "alive": true,
     "output": "PING 112.120.10.102 (112.120.10.102): 56 data bytes\n64 bytes from 112.120.10.102: icmp_seq=0 ttl=231 time=324.152 ms\n\n--- 112.120.10.102 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 324.152/324.152/324.152/0.000 ms\n",
     "time": 324.152,
-    "times": [
-      324.152
-    ],
+    "times": [324.152],
     "min": "324.152",
     "max": "324.152",
     "avg": "324.152",
@@ -855,9 +775,7 @@
     "alive": true,
     "output": "PING 38.29.227.28 (38.29.227.28): 56 data bytes\n64 bytes from 38.29.227.28: icmp_seq=0 ttl=49 time=23.241 ms\n\n--- 38.29.227.28 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 23.241/23.241/23.241/0.000 ms\n",
     "time": 23.241,
-    "times": [
-      23.241
-    ],
+    "times": [23.241],
     "min": "23.241",
     "max": "23.241",
     "avg": "23.241",
@@ -885,9 +803,7 @@
     "alive": true,
     "output": "PING 47.91.30.105 (47.91.30.105): 56 data bytes\n64 bytes from 47.91.30.105: icmp_seq=0 ttl=41 time=165.076 ms\n\n--- 47.91.30.105 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 165.076/165.076/165.076/nan ms\n",
     "time": 165.076,
-    "times": [
-      165.076
-    ],
+    "times": [165.076],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -901,9 +817,7 @@
     "alive": true,
     "output": "PING 198.206.133.128 (198.206.133.128): 56 data bytes\n64 bytes from 198.206.133.128: icmp_seq=0 ttl=47 time=43.060 ms\n\n--- 198.206.133.128 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 43.060/43.060/43.060/nan ms\n",
     "time": 43.06,
-    "times": [
-      43.06
-    ],
+    "times": [43.06],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -917,9 +831,7 @@
     "alive": true,
     "output": "PING 148.251.135.52 (148.251.135.52): 56 data bytes\n64 bytes from 148.251.135.52: icmp_seq=0 ttl=45 time=116.226 ms\n\n--- 148.251.135.52 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 116.226/116.226/116.226/0.000 ms\n",
     "time": 116.226,
-    "times": [
-      116.226
-    ],
+    "times": [116.226],
     "min": "116.226",
     "max": "116.226",
     "avg": "116.226",
@@ -947,9 +859,7 @@
     "alive": true,
     "output": "PING 38.29.227.54 (38.29.227.54): 56 data bytes\n64 bytes from 38.29.227.54: icmp_seq=0 ttl=49 time=27.943 ms\n\n--- 38.29.227.54 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 27.943/27.943/27.943/0.000 ms\n",
     "time": 27.943,
-    "times": [
-      27.943
-    ],
+    "times": [27.943],
     "min": "27.943",
     "max": "27.943",
     "avg": "27.943",
@@ -963,9 +873,7 @@
     "alive": true,
     "output": "PING 146.66.200.121 (146.66.200.121): 56 data bytes\n64 bytes from 146.66.200.121: icmp_seq=0 ttl=45 time=123.940 ms\n\n--- 146.66.200.121 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 123.940/123.940/123.940/nan ms\n",
     "time": 123.94,
-    "times": [
-      123.94
-    ],
+    "times": [123.94],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -979,9 +887,7 @@
     "alive": true,
     "output": "PING 38.29.227.5 (38.29.227.5): 56 data bytes\n64 bytes from 38.29.227.5: icmp_seq=0 ttl=49 time=28.221 ms\n\n--- 38.29.227.5 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 28.221/28.221/28.221/0.000 ms\n",
     "time": 28.221,
-    "times": [
-      28.221
-    ],
+    "times": [28.221],
     "min": "28.221",
     "max": "28.221",
     "avg": "28.221",
@@ -1009,9 +915,7 @@
     "alive": true,
     "output": "PING 38.29.227.49 (38.29.227.49): 56 data bytes\n64 bytes from 38.29.227.49: icmp_seq=0 ttl=48 time=33.192 ms\n\n--- 38.29.227.49 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 33.192/33.192/33.192/nan ms\n",
     "time": 33.192,
-    "times": [
-      33.192
-    ],
+    "times": [33.192],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1025,9 +929,7 @@
     "alive": true,
     "output": "PING 94.130.139.215 (94.130.139.215): 56 data bytes\n64 bytes from 94.130.139.215: icmp_seq=0 ttl=45 time=127.077 ms\n\n--- 94.130.139.215 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 127.077/127.077/127.077/0.000 ms\n",
     "time": 127.077,
-    "times": [
-      127.077
-    ],
+    "times": [127.077],
     "min": "127.077",
     "max": "127.077",
     "avg": "127.077",
@@ -1041,9 +943,7 @@
     "alive": true,
     "output": "PING 38.29.227.23 (38.29.227.23): 56 data bytes\n64 bytes from 38.29.227.23: icmp_seq=0 ttl=48 time=27.629 ms\n\n--- 38.29.227.23 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 27.629/27.629/27.629/0.000 ms\n",
     "time": 27.629,
-    "times": [
-      27.629
-    ],
+    "times": [27.629],
     "min": "27.629",
     "max": "27.629",
     "avg": "27.629",
@@ -1057,9 +957,7 @@
     "alive": true,
     "output": "PING 38.29.227.48 (38.29.227.48): 56 data bytes\n64 bytes from 38.29.227.48: icmp_seq=0 ttl=48 time=21.964 ms\n\n--- 38.29.227.48 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 21.964/21.964/21.964/0.000 ms\n",
     "time": 21.964,
-    "times": [
-      21.964
-    ],
+    "times": [21.964],
     "min": "21.964",
     "max": "21.964",
     "avg": "21.964",
@@ -1073,9 +971,7 @@
     "alive": true,
     "output": "PING 88.99.218.32 (88.99.218.32): 56 data bytes\n64 bytes from 88.99.218.32: icmp_seq=0 ttl=45 time=117.780 ms\n\n--- 88.99.218.32 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 117.780/117.780/117.780/nan ms\n",
     "time": 117.78,
-    "times": [
-      117.78
-    ],
+    "times": [117.78],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1089,9 +985,7 @@
     "alive": true,
     "output": "PING 38.29.227.19 (38.29.227.19): 56 data bytes\n64 bytes from 38.29.227.19: icmp_seq=0 ttl=48 time=29.313 ms\n\n--- 38.29.227.19 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 29.313/29.313/29.313/nan ms\n",
     "time": 29.313,
-    "times": [
-      29.313
-    ],
+    "times": [29.313],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1105,9 +999,7 @@
     "alive": true,
     "output": "PING 206.83.144.16 (206.83.144.16): 56 data bytes\n64 bytes from 206.83.144.16: icmp_seq=0 ttl=49 time=22.865 ms\n\n--- 206.83.144.16 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 22.865/22.865/22.865/nan ms\n",
     "time": 22.865,
-    "times": [
-      22.865
-    ],
+    "times": [22.865],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1149,9 +1041,7 @@
     "alive": true,
     "output": "PING 38.29.227.36 (38.29.227.36): 56 data bytes\n64 bytes from 38.29.227.36: icmp_seq=0 ttl=48 time=21.525 ms\n\n--- 38.29.227.36 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 21.525/21.525/21.525/0.000 ms\n",
     "time": 21.525,
-    "times": [
-      21.525
-    ],
+    "times": [21.525],
     "min": "21.525",
     "max": "21.525",
     "avg": "21.525",
@@ -1165,9 +1055,7 @@
     "alive": true,
     "output": "PING 176.9.24.56 (176.9.24.56): 56 data bytes\n64 bytes from 176.9.24.56: icmp_seq=0 ttl=45 time=113.907 ms\n\n--- 176.9.24.56 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 113.907/113.907/113.907/0.000 ms\n",
     "time": 113.907,
-    "times": [
-      113.907
-    ],
+    "times": [113.907],
     "min": "113.907",
     "max": "113.907",
     "avg": "113.907",
@@ -1181,9 +1069,7 @@
     "alive": true,
     "output": "PING 157.90.15.247 (157.90.15.247): 56 data bytes\n64 bytes from 157.90.15.247: icmp_seq=0 ttl=45 time=112.423 ms\n\n--- 157.90.15.247 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 112.423/112.423/112.423/nan ms\n",
     "time": 112.423,
-    "times": [
-      112.423
-    ],
+    "times": [112.423],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1197,9 +1083,7 @@
     "alive": true,
     "output": "PING 38.29.227.29 (38.29.227.29): 56 data bytes\n64 bytes from 38.29.227.29: icmp_seq=0 ttl=48 time=31.073 ms\n\n--- 38.29.227.29 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 31.073/31.073/31.073/0.000 ms\n",
     "time": 31.073,
-    "times": [
-      31.073
-    ],
+    "times": [31.073],
     "min": "31.073",
     "max": "31.073",
     "avg": "31.073",
@@ -1241,9 +1125,7 @@
     "alive": true,
     "output": "PING 38.29.227.53 (38.29.227.53): 56 data bytes\n64 bytes from 38.29.227.53: icmp_seq=0 ttl=48 time=24.242 ms\n\n--- 38.29.227.53 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.242/24.242/24.242/nan ms\n",
     "time": 24.242,
-    "times": [
-      24.242
-    ],
+    "times": [24.242],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1257,9 +1139,7 @@
     "alive": true,
     "output": "PING 174.112.132.234 (174.112.132.234): 56 data bytes\n64 bytes from 174.112.132.234: icmp_seq=0 ttl=46 time=115.036 ms\n\n--- 174.112.132.234 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 115.036/115.036/115.036/0.000 ms\n",
     "time": 115.036,
-    "times": [
-      115.036
-    ],
+    "times": [115.036],
     "min": "115.036",
     "max": "115.036",
     "avg": "115.036",
@@ -1273,9 +1153,7 @@
     "alive": true,
     "output": "PING 112.120.10.102 (112.120.10.102): 56 data bytes\n64 bytes from 112.120.10.102: icmp_seq=0 ttl=231 time=235.618 ms\n\n--- 112.120.10.102 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 235.618/235.618/235.618/0.000 ms\n",
     "time": 235.618,
-    "times": [
-      235.618
-    ],
+    "times": [235.618],
     "min": "235.618",
     "max": "235.618",
     "avg": "235.618",
@@ -1289,9 +1167,7 @@
     "alive": true,
     "output": "PING 38.29.227.47 (38.29.227.47): 56 data bytes\n64 bytes from 38.29.227.47: icmp_seq=0 ttl=49 time=24.299 ms\n\n--- 38.29.227.47 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.299/24.299/24.299/nan ms\n",
     "time": 24.299,
-    "times": [
-      24.299
-    ],
+    "times": [24.299],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1305,9 +1181,7 @@
     "alive": true,
     "output": "PING 95.217.183.95 (95.217.183.95): 56 data bytes\n64 bytes from 95.217.183.95: icmp_seq=0 ttl=40 time=121.121 ms\n\n--- 95.217.183.95 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 121.121/121.121/121.121/0.000 ms\n",
     "time": 121.121,
-    "times": [
-      121.121
-    ],
+    "times": [121.121],
     "min": "121.121",
     "max": "121.121",
     "avg": "121.121",
@@ -1321,9 +1195,7 @@
     "alive": true,
     "output": "PING 38.29.227.33 (38.29.227.33): 56 data bytes\n64 bytes from 38.29.227.33: icmp_seq=0 ttl=49 time=28.129 ms\n\n--- 38.29.227.33 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 28.129/28.129/28.129/0.000 ms\n",
     "time": 28.129,
-    "times": [
-      28.129
-    ],
+    "times": [28.129],
     "min": "28.129",
     "max": "28.129",
     "avg": "28.129",
@@ -1351,9 +1223,7 @@
     "alive": true,
     "output": "PING 199.38.81.15 (199.38.81.15): 56 data bytes\n64 bytes from 199.38.81.15: icmp_seq=0 ttl=47 time=40.889 ms\n\n--- 199.38.81.15 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 40.889/40.889/40.889/0.000 ms\n",
     "time": 40.889,
-    "times": [
-      40.889
-    ],
+    "times": [40.889],
     "min": "40.889",
     "max": "40.889",
     "avg": "40.889",
@@ -1367,9 +1237,7 @@
     "alive": true,
     "output": "PING 38.29.227.18 (38.29.227.18): 56 data bytes\n64 bytes from 38.29.227.18: icmp_seq=0 ttl=49 time=27.465 ms\n\n--- 38.29.227.18 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 27.465/27.465/27.465/0.000 ms\n",
     "time": 27.465,
-    "times": [
-      27.465
-    ],
+    "times": [27.465],
     "min": "27.465",
     "max": "27.465",
     "avg": "27.465",
@@ -1383,9 +1251,7 @@
     "alive": true,
     "output": "PING 38.29.227.51 (38.29.227.51): 56 data bytes\n64 bytes from 38.29.227.51: icmp_seq=0 ttl=49 time=25.714 ms\n\n--- 38.29.227.51 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 25.714/25.714/25.714/0.000 ms\n",
     "time": 25.714,
-    "times": [
-      25.714
-    ],
+    "times": [25.714],
     "min": "25.714",
     "max": "25.714",
     "avg": "25.714",
@@ -1399,9 +1265,7 @@
     "alive": true,
     "output": "PING 38.29.227.30 (38.29.227.30): 56 data bytes\n64 bytes from 38.29.227.30: icmp_seq=0 ttl=48 time=21.846 ms\n\n--- 38.29.227.30 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 21.846/21.846/21.846/0.000 ms\n",
     "time": 21.846,
-    "times": [
-      21.846
-    ],
+    "times": [21.846],
     "min": "21.846",
     "max": "21.846",
     "avg": "21.846",
@@ -1415,9 +1279,7 @@
     "alive": true,
     "output": "PING 112.120.10.102 (112.120.10.102): 56 data bytes\n64 bytes from 112.120.10.102: icmp_seq=0 ttl=231 time=253.491 ms\n\n--- 112.120.10.102 ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 253.491/253.491/253.491/nan ms\n",
     "time": 253.491,
-    "times": [
-      253.491
-    ],
+    "times": [253.491],
     "min": "unknown",
     "max": "unknown",
     "avg": "unknown",
@@ -1431,9 +1293,7 @@
     "alive": true,
     "output": "PING arweave.net (13.249.91.46): 56 data bytes\n64 bytes from 13.249.91.46: icmp_seq=0 ttl=242 time=24.632 ms\n\n--- arweave.net ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 24.632/24.632/24.632/0.000 ms\n",
     "time": 24.632,
-    "times": [
-      24.632
-    ],
+    "times": [24.632],
     "min": "24.632",
     "max": "24.632",
     "avg": "24.632",
