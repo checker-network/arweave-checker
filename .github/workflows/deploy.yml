@@ -2,7 +2,7 @@ name: Deploy Observable Dashboard to Cloudflare Pages
 
 on:
   push:
-    branches: [main, chore/add-deployment-workflow]
+    branches: [main]
   schedule:
     - cron: '0 20 * * *'
 
