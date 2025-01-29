@@ -10,15 +10,15 @@ const fetchData = async () => {
     for (let arNode of arweaveNodes) {
       const arweave = Arweave.init(arNode)
       try {
-        const tx = await arweave.transactions.get(txId)
+        await arweave.chunks.downloadChunkedData(txId)
         output = [
           ...output,
-          { txId, node: arNode, result: { status: 'success', data: tx } },
+          { txId, node: arNode, result: { status: 'success' } },
         ]
       } catch (err) {
         output = [
           ...output,
-          { txId, node: arNode, result: { status: 'error', data: err } },
+          { txId, node: arNode, result: { status: 'error', error: err } },
         ]
       }
     }
@@ -27,7 +27,7 @@ const fetchData = async () => {
   // Write to a JSON file
   const jsonString = JSON.stringify(output, null, 2)
   fs.writeFile(
-    './src/data/arweave-retrieve-transaction-output.json',
+    './src/data/arweave-retrieve-transactions-output.json',
     jsonString,
     (err) => {
       if (err) {
