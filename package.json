@@ -13,8 +13,7 @@
     "@observablehq/framework": "^1.13.0",
     "arweave": "^1.15.5",
     "d3-dsv": "^3.0.1",
-    "d3-time-format": "^4.1.0",
-    "ping": "^0.4.4"
+    "d3-time-format": "^4.1.0"
   },
   "devDependencies": {
     "prettier": "^3.4.2",

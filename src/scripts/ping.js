@@ -1,16 +1,30 @@
-import ping from 'ping'
 import fs from 'fs'
+import nodes from '../data/arweave-nodes.json' assert { type: 'json' }
 
-import nodesJson from '../data/arweave-nodes.json' assert { type: 'json' }
+const PING_TIMEOUT = 10_000
 
-const hosts = nodesJson.map((config) => config.host)
+const isAlive = async node => {
+  try {
+    const res = await fetch(
+      `${node.protocol}://${node.host}:${node.port}/`,
+      {
+        signal: AbortSignal.timeout(PING_TIMEOUT)
+      }
+    )
+    return res.ok
+  } catch {
+    return false
+  }
+}
 
 const pingTest = async () => {
-  let output = []
+  const output = []
 
-  for (let host of hosts) {
-    let res = await ping.promise.probe(host)
-    output = [res, ...output]
+  for (let node of nodes) {
+    output.push({
+      ...node,
+      alive: await isAlive(node)
+    })
   }
 
   // Write to a JSON file

@@ -13,7 +13,7 @@ const arweaveTxRetrieveResults = FileAttachment(
 
 ```js
 const simpleArweavePingResults = arweavePingResults.map((item) => ({
-  host: item.host,
+  host: `${item.host}:${item.port}`,
   alive: item.alive,
 }))
 const simpleArweaveTxRetrieveResults = arweaveTxRetrieveResults.map((item) => ({
