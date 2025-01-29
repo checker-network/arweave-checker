@@ -3,14 +3,11 @@ import nodes from '../data/arweave-nodes.json' assert { type: 'json' }
 
 const PING_TIMEOUT = 10_000
 
-const isAlive = async node => {
+const isAlive = async (node) => {
   try {
-    const res = await fetch(
-      `${node.protocol}://${node.host}:${node.port}/`,
-      {
-        signal: AbortSignal.timeout(PING_TIMEOUT)
-      }
-    )
+    const res = await fetch(`${node.protocol}://${node.host}:${node.port}/`, {
+      signal: AbortSignal.timeout(PING_TIMEOUT),
+    })
     return res.ok
   } catch {
     return false
@@ -23,7 +20,7 @@ const pingTest = async () => {
   for (let node of nodes) {
     output.push({
       ...node,
-      alive: await isAlive(node)
+      alive: await isAlive(node),
     })
   }
 

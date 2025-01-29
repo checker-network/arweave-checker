@@ -11,9 +11,9 @@ const getNodes = async () => {
       `https://api.viewblock.io/arweave/nodes?page=${page + 1}&network=mainnet`,
       {
         headers: {
-          Origin: 'https://viewblock.io'
-        }
-      }
+          Origin: 'https://viewblock.io',
+        },
+      },
     )
     const body = await res.json()
     if (maxPage === Infinity) {
@@ -25,22 +25,20 @@ const getNodes = async () => {
     {
       host: 'arweave.net',
       port: 443,
-      protocol: 'https'
+      protocol: 'https',
     },
     ...docs
-      .map(doc => doc.id)
+      .map((doc) => doc.id)
       .filter(Boolean)
-      .map(addr => {
+      .map((addr) => {
         const [host, port] = addr.split(':')
         const protocol = IP_ADDRESS_REGEX.test(host) ? 'http' : 'https'
         return {
           host,
-          port: port
-            ? Number(port)
-            : protocol === 'http' ? 80 : 443,
-          protocol
+          port: port ? Number(port) : protocol === 'http' ? 80 : 443,
+          protocol,
         }
-      })
+      }),
   ]
   nodes.sort((a, b) => a.host.localeCompare(b.host))
   console.log(`Found ${nodes.length} nodes`)
@@ -48,4 +46,7 @@ const getNodes = async () => {
 }
 
 const nodes = await getNodes()
-await fs.writeFile('./src/data/arweave-nodes.json', JSON.stringify(nodes, null, 2))
+await fs.writeFile(
+  './src/data/arweave-nodes.json',
+  JSON.stringify(nodes, null, 2),
+)
