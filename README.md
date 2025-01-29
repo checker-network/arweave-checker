@@ -11,6 +11,12 @@ npm install
 Then you can run
 
 ```
+node ./src/scripts/list.js
+```
+
+to get a list of nodes in /src/data/arweave-nodes.js
+
+```
 node ./src/scripts/ping.js
 ```
 
